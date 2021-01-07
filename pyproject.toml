@@ -16,6 +16,8 @@ ortoolpy = "^0.2.38"
 opencv-python = "^4.5.1"
 dlib = "^19.21.1"
 mecab-python3 = "^1.0.3"
+xlrd = "^2.0.1"
+openpyxl = "^3.0.5"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^5.4.2"

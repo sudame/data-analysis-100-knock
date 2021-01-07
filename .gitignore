@@ -147,3 +147,4 @@ dmypy.json
 *.zip
 sample_codes
 .vscode
+*.dump.csv
